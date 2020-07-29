@@ -1,4 +1,4 @@
-# sentimental analysis by using Natural language processing (NLP)
+# Sentimental analysis by using Natural language processing (NLP)
 Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques.
 Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken.
 
@@ -16,7 +16,7 @@ In this project we will build a model which will predict whether the reviews giv
 ![s](https://user-images.githubusercontent.com/68856803/88803839-b0523d00-d1ca-11ea-98cf-b6a0093e559d.png)
 
 ## About the dataset:
--> Dataset is a 'tsv' file which consists of large number of reviews (positive and negative). 
+-> Dataset is a 'tsv' file which consists of 1000 reviews (positive and negative). 
 
 -> Each review is associated with a number 0 or 1. 
 
@@ -38,3 +38,6 @@ In this project we will build a model which will predict whether the reviews giv
 (g) Predict the Test set results
 
 (h) Make the Confusion Matrix
+
+## Execution 
+-> python reviews.py

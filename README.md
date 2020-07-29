@@ -39,5 +39,6 @@ In this project we will build a model which will predict whether the reviews giv
 
 (h) Make the Confusion Matrix
 
-## Execution 
--> python reviews.py
+## Outputs:
+![a](https://user-images.githubusercontent.com/68856803/88807518-746da680-d1cf-11ea-9e6d-4d5ccc3a7295.png)
+![b](https://user-images.githubusercontent.com/68856803/88807528-76d00080-d1cf-11ea-8aa1-082175ffaaf4.png)

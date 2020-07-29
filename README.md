@@ -1,5 +1,6 @@
 # sentimental analysis by using Natural language processing (NLP)
 -> Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques.
+
 -> Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken.
 
 ## Packages required:
@@ -11,7 +12,8 @@
 
 ## Description:
 In this project we will build a model which will predict whether the reviews given in the restaurants by the customers is positive or not. For that we will build
-#### "bag of words model"
+"bag of words model" (In this model, a text is represented as the bag of its words, disregarding grammar and even word order but keeping multiplicity)
+
 
 ## About the dataset:
 ## Steps to build this project:

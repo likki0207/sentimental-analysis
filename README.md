@@ -1,5 +1,26 @@
-# sentimental-analysis
+# sentimental analysis by using Natural language processing (NLP)
 -> Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques.
--> Sentiment analysis tools allow businesses to identify customer sentiment towards products, brands or services in online feedback.
+-> Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken.
 
-#
+## Packages required:
+(a) numpy 
+(b) matplotlib
+(c) pandas 
+(d) re
+(e) nltk 
+
+## Description:
+In this project we will build a model which will predict whether the reviews given in the restaurants by the customers is positive or not. For that we will build
+#### "bag of words model"
+
+## About the dataset:
+## Steps to build this project:
+(a) Import the required libraries
+(b) Import the dataset
+(c) Clean the texts by removing the unnecessary stopwords
+(d) Create the Bag of Words model
+(e) Split the dataset into the Training set and Test set
+(f) Train the Naive Bayes model on the Training set
+(g) Predict the Test set results
+(h) Make the Confusion Matrix
+## Execution

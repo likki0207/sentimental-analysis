@@ -14,6 +14,9 @@
 In this project we will build a model which will predict whether the reviews given in the restaurants by the customers is positive or not. For that we will build
 "bag of words model" (In this model, a text is represented as the bag of its words, disregarding grammar and even word order but keeping multiplicity)
 
+![s](https://user-images.githubusercontent.com/68856803/88803839-b0523d00-d1ca-11ea-98cf-b6a0093e559d.png)
+
+
 
 ## About the dataset:
 ## Steps to build this project:

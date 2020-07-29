@@ -1,7 +1,6 @@
 # sentimental analysis by using Natural language processing (NLP)
--> Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques.
-
--> Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken.
+Sentiment analysis is the interpretation and classification of emotions (positive, negative and neutral) within text data using text analysis techniques.
+Natural language processing (NLP) is the ability of a computer program to understand human language as it is spoken.
 
 ## Packages required:
 (a) numpy 

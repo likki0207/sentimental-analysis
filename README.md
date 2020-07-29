@@ -17,7 +17,9 @@ In this project we will build a model which will predict whether the reviews giv
 
 ## About the dataset:
 -> Dataset is a 'tsv' file which consists of large number of reviews (positive and negative). 
+
 -> Each review is associated with a number 0 or 1. 
+
 -> positive reviews are associated with number 1 and negative reviews are associated with number 0
 
 ## Steps to build this project:

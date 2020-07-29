@@ -16,16 +16,24 @@ In this project we will build a model which will predict whether the reviews giv
 
 ![s](https://user-images.githubusercontent.com/68856803/88803839-b0523d00-d1ca-11ea-98cf-b6a0093e559d.png)
 
-
-
 ## About the dataset:
+-> Dataset is a 'tsv' file which consists of large number of reviews (positive and negative). 
+-> Each review is associated with a number 0 or 1. 
+-> positive reviews are associated with number 1 and negative reviews are associated with number 0
+
 ## Steps to build this project:
 (a) Import the required libraries
+
 (b) Import the dataset
+
 (c) Clean the texts by removing the unnecessary stopwords
+
 (d) Create the Bag of Words model
+
 (e) Split the dataset into the Training set and Test set
+
 (f) Train the Naive Bayes model on the Training set
+
 (g) Predict the Test set results
+
 (h) Make the Confusion Matrix
-## Execution
